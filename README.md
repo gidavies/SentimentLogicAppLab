@@ -19,7 +19,7 @@ You will need:
 
 - An Azure subscription or an [Azure trial account](https://azure.microsoft.com/free/?WT.mc_id=A261C142F).
 - A [Twitter account](https://twitter.com) to access tweets (no tweets will be posted).
-- An [Outlook.com](https://outlook.com/) account for sending email.
+- An [Outlook.com](https://outlook.com/) account for sending email. You could also choose to use Office365 or GMail.
 
 # Overall flow
 
@@ -46,6 +46,7 @@ Create a Text Analytics Cognitive Service that will analyse text and determine t
 
 5. Click **Create** and after the account is created, click on your new Cognitive Services account pinned to the dashboard.
 6. In the account overview copy the **Endpoint** URL and save it for use later.
+<img src="images/S2_0.png" alt="Create New Logic App" width="624"/>
 7. In the account, click **Keys**, and then copy the value of **Key 1** and save it with the endpoint URL. You use this key to connect the logic app to your Cognitive Services account:
     <img src="images/S1_3.png" alt="Cognitive Service Keys" width="624"/>
 
