@@ -71,13 +71,13 @@ Create a Logic App that will carry out the actions required.
 Trigger the Logic App when a tweet is sent matching specific criteria.
 
 1. In the Logic App type **Tweet** into the search area and select **Twitter - When a new tweet is posted**:
-    <img src="images/S3_1.png" alt="Tweet Trigger" width="624"/>
+<img src="images/S3_1.png" alt="Tweet Trigger" width="624"/>
 2. Click **Sign in** and use your Twitter username and password to allow this Logic App to access Twitter:
-    <img src="images/S3_2.png" alt="Twitter sign in" width="624"/>
+<img src="images/S3_2.png" alt="Twitter sign in" width="624"/>
 3. Then enter a hashtag to search on. Use something that will have some tweets posted regularly, e.g. #Azure. Keep the timing on the default:
-    <img src="images/S3_3.png" alt="Twitter search" width="624"/>
+<img src="images/S3_3.png" alt="Twitter search" width="624"/>
 4. **Save** the Logic App 
-    <img src="images/S3_4.png" alt="Save" width="624"/> 
+<img src="images/S3_4.png" alt="Save" width="624"/> 
 5. Move onto Step 4.
 
 # Step 4: Analyse the tweet using the cognitive service
